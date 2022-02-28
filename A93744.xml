@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The lamentation of Richard Stafford, a scribe instructed in the law of God, for the death of Mary Princess of Orange etogether [sic] with a word of instruction and warning to her husband.</title>
+            <author>Stafford, Richard, 1663-1703.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93744</idno>
+            <idno type="STC">Wing S5122</idno>
+            <idno type="STC">ESTC R42760</idno>
+            <idno type="EEBO-CITATION">38875719</idno>
+            <idno type="OCLC">ocm 38875719</idno>
+            <idno type="VID">152397</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93744)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152397)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2295:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The lamentation of Richard Stafford, a scribe instructed in the law of God, for the death of Mary Princess of Orange etogether [sic] with a word of instruction and warning to her husband.</title>
+                  <author>Stafford, Richard, 1663-1703.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>"Written January 3. 1694/5." -- p. 4.</note>
+                  <note>Place of publication from Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mary --  II, --  Queen of England, 1662-1694.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:152397:1" rendition="simple:additions"/>
+            <head>The <hi>LAMENTATION</hi> of <hi>Richard Stafford,</hi> a Scribe inſtructed in the Law of God, for the Death of <hi>MARY</hi> Princeſs of <hi>Orange;</hi> etogether with a Word of Inſtruction and Warning to her Husband.</head>
+            <p>THE Title hereof is proper, and taken from 2 <hi>Chron,</hi> 35.25. For though the Practiſe or Uſage of the World is to do it by way of Elegy or Rhime, yet that is to pleaſe a ſort of injudicious and ignorant Readers. But as the true ſaying is, If People will be ever ſerious, they will be ſerious upon their Death<g ref="char:EOLhyphen"/>bed So that it is convenient and requiſite, upon ſuch a ſerious Subject eſpecially; to de<g ref="char:EOLhyphen"/>liver nothing but the words of Truth and Soberneſs. As for my part, I will write no<g ref="char:EOLhyphen"/>thing hereon, but what I will aver and anſwer at the Judgment Seat of God, and I will ſo ſpeak and ſo publiſh, as I that muſt be judged and give account for the ſame.</p>
+            <p>Saith the Apoſtle <hi>Paul, But I would not have you to be ignorant Brethren concerning them which are aſleep, that ye ſorrow not, even as thoſe which have no Hope,</hi> 1 Theſ. 4.13. He means the Heathen, which knew or hoped nothing concerning Immortality and the fu<g ref="char:EOLhyphen"/>ture Being. But as for Chriſtians, who believed that Jeſus died and roſe again, even ſo them alſo which ſleep in Jeſus, will God bring with them, they ſhould not ſorrow in like manner concerning thoſe that are dead, as they are apt to do, who think that ſuch are periſhed and become as nothing; for indeed and in truth, they have ſtill a fu<g ref="char:EOLhyphen"/>ture Being. Yet here again (it being evident and manifeſt from the <hi>Revelation</hi> of God. That there are two kinds of future Being, the one of Happineſs, the other of Miſery:) we are not therefore to deceive our ſelves with the common error and miſtake of the Multitude, as if all promiſcouſly who ſleep the ſleep of Death, were Happy becauſe they are free from the Pain and Irkſomneſs of this life; for this Benefit only belongs to them who ſleep in Jeſus. And as to ſuch only we ſhould not be ſorry for whom we have good and true grounds that they are bleſſed in the future State. But the ſame Duty which the Apoſtle here teaches, doth ſeem to intimate forth and imply as if we ſhould be ſorry for ſuch as to whom we have reaſon to fear.</p>
+            <p>
+               <hi>Jeremiah</hi> and the People of the <hi>Jews</hi> lamented for <hi>Joſiah,</hi> becauſe he was <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> good King, and for the want and miſs they ſhould have of him, and alſo they had but the glimmering of Immortality, which is now brought to light under the Goſpel. I ſhall not ground my preſent Lamentation from hence; for though there be as ſeveral Good and Wiſe People in this Nation, who can Rule and Govern altogether as well as thoſe who at preſent do ſo; yet if they have no Right ſo to do, or if they take upon them, and Uſurp to Govern before their time, notwithſtanding all their other Goodneſs or Wiſdom, they are to be blamed. Even ſo whatever her other Perſonal Accompliſhments might be (a good Character is left upon Record; concerning <hi>David</hi> ſaving the mat<g ref="char:EOLhyphen"/>ter of <hi>
+                  <g ref="char:V">Ʋ</g>riah</hi> the <hi>Hittite,</hi> as to which he came to Repentance and wrote a <hi>Penitential Pſalm</hi>) ſaving the matter of taking away the Crown from her Father King <hi>James;</hi> Hence doth ariſe to me all the ground of my Lamentation for her, left for this ſame thing it ſhould go evil with her at the laſt.</p>
+            <pb n="2" facs="tcp:152397:2"/>
+            <p>For if God Almighty ſhould judge (I refer all judgment unto him) that hereby ſhe lived and died in the continued breach of any one of his Laws or Commandments. As de<g ref="char:EOLhyphen"/>priving him of his Civil Right, ſeems to be a breach of that Duty of Honouring her Father; as alſo it is a kind of Stealing or Robbery, which is againſt the Eighth Com<g ref="char:EOLhyphen"/>mandment; and farther, It is a ſort of Covetouſneſs, which is againſt the Tenth Com<g ref="char:EOLhyphen"/>mandment; I ſay again, If God Almighty ſhould judge it ſo, then ſhe will receive the Recompence of a Tranſgreſſor of his Laws.</p>
+            <p>Again, If God ſhould judge it to be an Iniquity, which ſignifies a thing that is not equal, as indeed ſo it ſeems to all ſuch knowing Conſciences, which are free from Intereſt or Prejudice, Then the conſequence of that alſo is, <hi>All things which offend, and they which do Iniquity, ſhall be caſt into a Furnace of fire.</hi> Mat. 13.41, 42. So that, if ſhe did Iniquity in her life-time, God, that accepteth not the Perſon of Princes, not re<g ref="char:EOLhyphen"/>gardeth the Rich more than the Poor, for they are all the work of his Hands, <hi>Job</hi> 34.19. will do with her according to his Law and Truth.</p>
+            <p>Again, If the Judge of all the Earth (who will do Right) ſhould at the day of Judg<g ref="char:EOLhyphen"/>ment pronounce or affirm this or the like to this following, to be a propoſition of his own Eternal Truth, <hi>viz.</hi> As <hi>Laban</hi> ſaid, <hi>It muſt not be ſo done in our Country to give the younger before the firſt-born,</hi> Gen 29.26. Even ſo it muſt not, or at leaſt it ought not to be ſo done in this Nation of the Earth, <hi>For it is not conſistent with that Righteouſneſs,</hi> Pſal. 96.13. <hi>and Equity,</hi> Pſal. 98.9<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> wherewith the Lord will judge the World, for her who was ſprang out of the Loyns of her Father, to have his Kingdom or Inheri<g ref="char:EOLhyphen"/>tance before his Death or willing Reſignation; Then it will be rendred unto her as one that obeyed not the Truth, but obeyed Unrighteouſneſs (the conſequent whereof is <hi>In<g ref="char:EOLhyphen"/>dignation and Wrath; Tribulation and Anguiſh,</hi> Rom. 2.8, 9.) So that herein ſhe did con<g ref="char:EOLhyphen"/>trary to the Mind and Will of God.</p>
+            <p>But what if ſhe were Good and Righteous in other things? As to this, Hear how the Word of God decides and determines it; <hi>But if the Righteous Man turneth away from his Righteouſneſs and committeth Iniquity</hi> (God will judge whether that was not her Caſe, tho' perhaps it may not be truly applied according to the next words immediately following) <hi>and doth according to all the abominations the wicked Man doth,</hi> (for ſhe did only according to ſome of the Abominations that wicked People do) <hi>ſhall he then live? All his Righte<g ref="char:EOLhyphen"/>ouſneſs that he hath done, ſhall not be mentioned; in his treſpaſs that he hath treſpaſſed, and in his ſin that he hath ſinned, in them ſhall be die,</hi> Ezek. 18.24. There it is pointed out ex<g ref="char:EOLhyphen"/>actly. And ſo the Apoſtle <hi>James</hi> ſaith by the Spirit; <hi>For whoſoever ſhall keep the whole Law and yet offend in one point, he is guilty of all. For he that ſaid, Do not commit Adulte<g ref="char:EOLhyphen"/>ry, ſaid alſo, Do not Kill. Now if thou commit no Adultery, yet if thou Kill. thou art be<g ref="char:EOLhyphen"/>come a tranſgreſſor of the Law!</hi> James 2.6, 7. In like manner it may be truly reaſoned, <hi>He that ſaid, Thou ſhalt not make nor Worſhip any graven Image, ſaid alſo, Thou ſhalt not forſwear thy ſelf, but ſhall perform unto the Lord thine Oaths,</hi> Mat 5.33. <hi>Thou ſhalt not covet nor do wrong.</hi> Now if thou doſt not make, nor yet worſhip any graven Image; yet if thou doſt forſwear thy ſelf, and not perform unto the Lord thine Oaths, if thou diſhonoureſt thine own natural Father, if thou doſt wrong and covet, thou art herein become a tranſgreſſor of the Law.</p>
+            <p>Many like things ſhe (who is called the late Queen <hi>Mary</hi>) was Warned out of my Books (which were but ſo many Reaſonings and Inferences from out of the Written Word of God) during her life time, and particularly in a Letter of mine directed to her, bearing Date <hi>October</hi> 19th 1692. and Printed in an half ſheet. Her Soul exiſts and lives all one when it is lodged from the Body, as whilſt it was therein: So that even now ſhe is more ſenſible of the truth thereof; for tho' her life is now taken off from this Earth, yet it is continued elſewhere, and ſhe being now out of this ignorant (but more eſpeci<g ref="char:EOLhyphen"/>ally corrupt World) by and according to the Sentences of God's Eternal Truth, ſhe will be judged.</p>
+            <pb n="3" facs="tcp:152397:2" rendition="simple:additions"/>
+            <p>In two of my Printed Papers, there are theſe obſervable words in this reſpect, <hi>Be<g ref="char:EOLhyphen"/>cauſe that when a Prophet ſpeaketh in the Name of the Lord, if the thing follow not nor come to paſs, that is the thing which the Lord hath not ſpoken, but the Prophet hath ſpoken it pre<g ref="char:EOLhyphen"/>ſumptuouſly,</hi> Deut. 18.22. Which doth imply on the other hand, that when the thing doth follow and come to paſs, that is the thing which the Lord hath ſpoken and made it known by ſuch a Servant of his unto the Inhabitants of the Earth, and the Prophet herein hath ſpoken it adviſediy, or rather obediently unto the Spirit of the Lord. which Spirit made it known unto him, and commanded him to declare it unto others.</p>
+            <p>In my firſt Printed Paper Entitled, <hi>A Supplemental Tract of Governments;</hi> which I delivered in to the Houſe of Lords on <hi>January</hi> the 4th 1689. are the very ſame words following, <hi>viz.</hi>
+            </p>
+            <div type="part">
+               <head>A Word to the preſent Queen <hi>Mary.</hi>
+               </head>
+               <p>Put the Queen in Remembrance, <hi>Honour thy Father and Mother which is the firſt Com<g ref="char:EOLhyphen"/>mandment with Promiſe, that it may be well with thee, and thou mayeſt live long on the Earth,</hi> Eph. 6.1, 2. which doth imply, that if ſhe doth not, ſhe will not be long Settled and Eſtabliſhed here.</p>
+               <p>And then as a farther Confirmation of the ſame, on <hi>October</hi> the 5th 1692, I wrote down theſe following words, which alſo I cauſed to be Printed and Publiſhed in an half ſheet, Entitled, <hi>Some more Words to be annexed to my Book, Entitled,</hi> Things Plain and Weighty, <hi>viz.</hi>
+               </p>
+               <p>This laſt ſeems to be falſified for well high theſe four years; <hi>Yet that time is not long with God, that confirmeth the word of his Servant and performeth the Counſel of his Meſſen<g ref="char:EOLhyphen"/>gers,</hi> Iſa. 44.26. <hi>It is ſo in the Mind and Will of God, although there are not found any of his Servants here on Earth, who will gently,</hi> Iſa. 40.11. <hi>(God's doing being after this man<g ref="char:EOLhyphen"/>ner) Remove the Diadem, and take off the Crown,</hi> Ezek. 21.26. <hi>If the Parties will not do it themſelves, for every one ought to help, that Iniquity ſhould have an end,</hi> verſ. 25. <hi>And that it be done according to the Law of God,</hi> Ezra 10.3. <hi>And alſo that her Spirit might be ſayed in the day of the Lord Jeſus.</hi> 1 Cor. 5.5. For the thing is yet for an appoint<g ref="char:EOLhyphen"/>ed time, but at the end it ſhall ſpeak and not lye; though it tarry, wait for it becauſe it will ſurely come, it will not tarry.</p>
+               <p>This laſt hath been now exactly fulfilled by her Deceaſe, and by her not having attain<g ref="char:EOLhyphen"/>ed to the common Term or Period of Humane Life. God himſelf by her death (which our Common Law Books do truly and properly call the Act of God) <hi>hath removed the Dia<g ref="char:EOLhyphen"/>dem, and taken off the Crown from her;</hi> although ſhe by Diſobedience and Rebellion to his Word and Commandment, would hold it as long as ſhe could, and now her Iniquity hath an end; <hi>Turn away my Reproaches which I fear,</hi> Pſal. 119.39.</p>
+               <p>I will hereby give this other ſhort warning to her Husband, that for a little while as yet ſurvives her. That as it is written of thoſe who Blaſphemed the God of Heaven, <hi>becauſe of their Pains and Sores, and repented not of their Deeds,</hi> Rev. 16.11. And ſo although thy Wife died in her Sin, Iniquity and Treſpaſs, and repented not of her Deed: Even ſo in all outward likelihood and probability, the Spirit of Diſobedience works yet rather more ſtrongly in thy Heart, that thou wilt likewiſe go on and continue therein until thou come to die in this ſame Sin, Iniquity and Treſpaſs. I have heard that exact<g ref="char:EOLhyphen"/>ly like the Method of our firſt Parents in the Tranſgreſſion, <hi>Gen.</hi> 3.12, 13. of the throwing off their ſin from one to another; the Man laying the blame upon the Woman, and ſhe upon the Serpent; ſo thy Wife did uſe to lay the excuſe and blame upon thee her Husband, as if that could cancel, annul, and make void all Duty to her Parent. In no wiſe; for as we are not allowed to break one Commandment for the obſervance of another, there being no neceſſity thereof, even ſo the ſeveral Relational Duties may be all kept in their place, and he would throw it off upon the Repreſentatives of the Peo<g ref="char:EOLhyphen"/>ple of <hi>England,</hi> and they again upon K. <hi>J's</hi> Acts of Male-Adminiſtration (which were either ſo many lyes made upon him, or Acts of Humane Ignorance, Error and Infirmi<g ref="char:EOLhyphen"/>ty.) And how the keeping of a Kingdom for a few months or years longer, ſeems to
+<pb n="4" facs="tcp:152397:3"/>thee ſuch a Charming thing (it being indeed the principal temptation of Satan) that thou art ſtill for hazarding thy Soul and Body for the ſame; although to have and enjoy the Empire and Dominion of the whole Earth for a thouſand or ten thouſand years, (much leſs of a little part or Countrey thereof for a much ſhorter time) would not be a ſuffi<g ref="char:EOLhyphen"/>cient compenſation for the loſs of a Soul. But here it is alſo wrongly and Univerſally ſur<g ref="char:EOLhyphen"/>miſed, that the ſeveral conſequences would be ſo very dangerous and uncertain both to thy ſelf and to others, if thou ſhouldeſt of thine own free accord, Reſign and Reſtore the Kingdom back unto him whoſe Right it is. Whereas <hi>fiat justitia &amp; ruat Coelum.</hi> There can be no real, but only an imagined inconvenience in doing of Righteouſneſs and truſting our God with the event of all, according to what is written; <hi>Offer the Sacrifices of Righteouſneſs, and put your Trust in the Lord,</hi> Pſal. 4.5. <hi>In Righteouſneſs ſhalt thou be eſtabliſhed: Thou ſhalt be far from Oppreſſion, for thou ſhalt not fear; and from Terror, for it ſhall not come nigh thee,</hi> Iſa. 54.14. But probably thou not knowing, and therefore not obeying the Scriptures, will not repent of thy Deed, but go on to die therein, and be puniſhed for the ſame; although the future puniſhment of God will be ſuch, as will make them (upon whom it ſhall be inflicted) to gnaw their Tongues for pain.</p>
+               <p>It hath been reported, That thou didſt ſwoon away upon the death of thy Wife, which was ſomewhat like that of <hi>Saul, Who ſtraitway fell along upon the Earth, and was ſore afraid becauſe of the words of Samuel, (to morrow thou ſhalt be with me) and there was no ſtrength in him,</hi> 1 Sam. 28.19, 20. And ſo in all probability upon the death of her who was the Partner and Companion in the Iniquity of thy life; hereupon the Terrors of the Lord and the Powers of the World to come, might ſomewhat more move, ſhake, and break in upon thy Soul and Conſcience than at other times, which cauſed that Fit of Swoon<g ref="char:EOLhyphen"/>ing, Sorrow and Fear. This ſeems to be rather the cauſe thereof, than any great Love or Affection; for if that was, How could he be ſo long from her each year, in carrying on of Wars and committing of Bloodſhed!</p>
+               <p>And tho' now again thy Lords and Counſellors to ſtrengthen thee ſtill in thine Iniqui<g ref="char:EOLhyphen"/>ty (for they alſo are thy Companions and Partners therein, and by theſe kinds of Me<g ref="char:EOLhyphen"/>thod Satan's Kingdom ſtands; hereby he holding them Captive whom he hath al<g ref="char:EOLhyphen"/>ready in his Snare, and will not let them repent of their Deed) have made their ſeveral Addreſſes unto thee (both which are fraught with Falſhood and Flattery) That they will ſupport thee and thy Government againſt all Enemies. But can they preſerve thy Breath from going forth? Can they skreen thee againſt the Wrath of God, which is revaled from Heaven againſt all unrighteouſneſs of Men, who hold the Truth in un<g ref="char:EOLhyphen"/>righteouſneſs? <hi>Rom.</hi> 1.18. and will be executed upon and ſenſibly felt by the Perſons of ſuch who have been guilty thereof, after that they are gone off from the Stage of this Earth: Can thy Biſhops, Lords, and Parliament Men, or even all the Inhabitants of this Nation whom they repreſent, ſupport thee againſt theſe thine Enemies, Sin, Death, and the Devil? For inſtead of rolling away the Stumbling-block (<hi>Caſt away the Stumbling-block from out of the way of my People,</hi> ſaith God) they are rather ſtill occaſio<g ref="char:EOLhyphen"/>nal that thou mayeſt continue in that ſin, which they and thy ſelf have committed; and ſo hereby thou wilt ſooner fall under the Power and Deſtruction of Death and the Devil.</p>
+               <p>Wherefore O thou that art called King, let my Counſel (which I give not of my ſelf, but the Word and Law of God ſaith, and commands the ſame), be acceptable unto thee, and break off thy Sins by Righteouſnes, and thine Iniquities by making Reſtitution to thy poor Father-in-Law, or to thy Deceaſed Wifes Father, <hi>If it may be a lengthening of thy Tranquility,</hi> Dan. 4 <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>7, or according to the Marginal reading of that Scripture, <hi>An heal<g ref="char:EOLhyphen"/>ing of thine Error,</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> aſſure thee in the Name of God, and from the Truth of his re<g ref="char:EOLhyphen"/>vealed Word, That if thou wilt indeed obey and go according to the Commandments and Directions thereof (ſome whereof are made known in my ſeveral Printed Books and Papers) that it will moſt certainly <hi>be a lengthening of thy Tranquilty, and an healing of thine Error.</hi> But then thou muſt hearken unto and alſo comply with that ſame word ſpeaking on this wiſe, <hi>Turn thou away from it (to which alone is the Bleſſing and Salvation of Chriſt,</hi> Acts 3.26.) and then Iniquity ſhall not be thy Ruine.</p>
+               <closer>
+                  <dateline>Written <date>
+                        <hi>January</hi> 3. 1694/5.</date>
+                  </dateline>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
